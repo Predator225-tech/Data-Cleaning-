@@ -1,0 +1,16 @@
+but prendre les 3 sources de données et les mettre dans une tableau all_client :  c_client , m_client et p_client 
+on veux des transformation de données 
+-UPPER CASE de toutes les colonnes 
+-CIN enlever les préfixes CIN et que tu fasses des nombre je veux que tu stock ca sous forme de chiffre long int etc 
+-trim enlever les espaces 
+-Format tel enelver les espaces et faire un formatage pas de +261 etc mais direct 033 4964180 sous forme string 
+- Format date yyyy-mm-yy
+
+
+
+but prendre les 3 sources de données et les mettre dans une tableau all_client :  c_client , m_client et p_client 
+on veux des transformation de données 
+-UPPER CASE de toutes les colonnes 
+-CIN enlever les préfixes CIN et que tu fasses des nombre je veux que tu stock ca sous forme de chiffre long int etc 
+ je veux que tu documentes tout ce que tu as fait dans un fichier doc.md pour savoir exactemet=nt ce que tu as fais pour 
+ arriver aux transformation tu as ajouter un ficher .py , ou ajouter un contenu etc 
